@@ -1,0 +1,63 @@
+<style type="text/css">
+body{
+font-family:arial,verdana;
+font-size:12px;
+margin: 0px auto;
+width: 600px;
+}
+div.container{
+border: 1px solid #000;
+float:left;
+margin:0 auto;
+padding:10px;
+width: 100%;
+}
+/*#leftCol{
+float:left;
+}
+#rightCol{
+float:right;
+}*/
+/*ul{
+list-style:none;
+margin:0;
+padding:0;
+width:50%;
+
+}*/
+li{
+border:1px solid #000;
+font-weight:bold;
+margin:5px 0;
+padding:10px 0;
+text-align:center;
+width:300px;
+}
+#source li{
+cursor:move;
+}
+#score{
+/*font-weight:bold;
+text-align: center;*/
+/*float:left;
+color:#ff0000;*/
+}
+/*#reset{
+color:#ff0000;
+cursor:pointer;
+font-weight:bold;
+text-align:right;
+text-decoration:underline;
+float:right;
+}*/
+.clear{
+clear:both;
+}
+#dialog-complete{
+display:none;
+}
+#dialog-complete span{
+/*float:left;*/
+margin:0 7px 20px 0;
+}
+</style>
